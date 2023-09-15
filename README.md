@@ -6,7 +6,7 @@ I recently decided to work on some data that I downloaded on Kaggle and I challe
 The dataset we'll be working on, belongs to the streaming platform called Netflix. 
 
 #### Project Goal
-An exploratory data analysis is conducted. To do so, I tried to give answers to qestions I asked myself. These questions can be interesting 
+An exploratory data analysis is conducted. To do so, I tried to give answers to eleven (11) questions my wife asked me. I told her that I was working on Netflix dataset and she can ask me some questions to which I 'll try to answer. It'll be an exercise for me, as I'm challenging my understanding in DAX language.
 
 ## Data Source
 The dataset comes from the kaggle site and is composed of two csv files : one for the movie/show titles  and the other one for the cast.
